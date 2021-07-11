@@ -1,0 +1,52 @@
+Event{device= Device{id=1, type='TV'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOn'}
+Event{device= Device{id=6, type='Fridge'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOn'}
+Event{device= Device{id=13, type='MusicCenter'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOn'}
+Event{device= Device{id=17, type='Boller'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOn'}
+Event{device= Device{id=17, type='Boller'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'broken'}
+Sensor{sensor= fireSensor, room= kitchen, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Event{device= Device{id=0, type='MusicCenter'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOff'}
+Event{device= Device{id=1, type='TV'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOff'}
+Event{device= Device{id=6, type='Fridge'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOff'}
+Event{device= Device{id=12, type='PC'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOff'}
+Event{device= Device{id=13, type='MusicCenter'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOff'}
+Event{device= Device{id=16, type='WashingMachine'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOff'}
+Sensor{sensor= waterSensor, room= bathroom, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Sensor{sensor= fireSensor, room= bedroom, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Sensor{sensor= fireSensor, room= livingroom, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Sensor{sensor= fireSensor, room= livingroom, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Sensor{sensor= fireSensor, room= bedroom2, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Sensor{sensor= waterSensor, room= bathroom, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Sensor{sensor= fireSensor, room= outside, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Sensor{sensor= fireSensor, room= kitchen, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Sensor{sensor= fireSensor, room= bedroom, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Sensor{sensor= windSensor, room= outside, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Window{inhabitant= null, window= Window{id=1}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'WindowState{state='close'}'}
+Window{inhabitant= null, window= Window{id=11}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'WindowState{state='close'}'}
+Event{device= Device{id=4, type='Cooker'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOff'}
+Event{device= Device{id=8, type='Microwave'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOff'}
+Event{device= Device{id=1, type='TV'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOn'}
+Event{device= Device{id=6, type='Fridge'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOn'}
+Event{device= Device{id=13, type='MusicCenter'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOn'}
+Event{device= Device{id=17, type='Boller'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOn'}
+Event{device= Device{id=17, type='Boller'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'broken'}
+Sensor{sensor= fireSensor, room= kitchen, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Event{device= Device{id=0, type='MusicCenter'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOff'}
+Event{device= Device{id=1, type='TV'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOff'}
+Event{device= Device{id=6, type='Fridge'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOff'}
+Event{device= Device{id=12, type='PC'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOff'}
+Event{device= Device{id=13, type='MusicCenter'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOff'}
+Event{device= Device{id=16, type='WashingMachine'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOff'}
+Sensor{sensor= waterSensor, room= bathroom, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Sensor{sensor= fireSensor, room= bedroom, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Sensor{sensor= fireSensor, room= livingroom, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Sensor{sensor= fireSensor, room= livingroom, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Sensor{sensor= fireSensor, room= bedroom2, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Sensor{sensor= waterSensor, room= bathroom, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Sensor{sensor= fireSensor, room= outside, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Sensor{sensor= fireSensor, room= kitchen, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Sensor{sensor= fireSensor, room= bedroom, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Sensor{sensor= windSensor, room= outside, when= Tue Jan 12 00:25:03 YEKT 2021'}
+Window{inhabitant= null, window= Window{id=29}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'WindowState{state='close'}'}
+Window{inhabitant= null, window= Window{id=20}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'WindowState{state='close'}'}
+Event{device= Device{id=4, type='Cooker'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOff'}
+Event{device= Device{id=8, type='Microwave'}, when= Tue Jan 12 00:25:03 YEKT 2021, state= 'turnOff'}

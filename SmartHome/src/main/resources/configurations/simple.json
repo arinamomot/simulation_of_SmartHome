@@ -1,0 +1,1004 @@
+{
+  "houses": [
+    {
+      "floors": [
+        {
+          "rooms": [
+            {
+              "name": "livingroom",
+              "persons": [
+                {
+                  "name": "Sara",
+                  "type": "GrandMother"
+                },
+                {
+                  "name": "Kate",
+                  "type": "Daughter"
+                }
+              ],
+              "devices": [
+                {
+                  "type": "MusicCenter",
+                  "id": 0,
+                  "name": "Main musicCenter"
+                },
+                {
+                  "type": "TV",
+                  "id": 1,
+                  "name": "Big TV"
+                },
+                {
+                  "type": "Telephone",
+                  "id": 2,
+                  "name": "Main telephone"
+                }
+              ],
+              "pets": [
+                {
+                  "type": "Dog",
+                  "name": "Rocky",
+                  "id": 1
+                }
+              ],
+              "sensors": [
+                {
+                  "type": "fireSensor",
+                  "id": 1
+                }
+              ]
+            },
+            {
+              "name": "kitchen",
+              "persons": [
+                {
+                  "name": "Anna",
+                  "type": "Mother"
+                }
+              ],
+              "devices": [
+                {
+                  "type": "CoffeeMachine",
+                  "id": 3,
+                  "name": "CoffeeMachine"
+                },
+                {
+                  "type": "Cooker",
+                  "id": 4,
+                  "name": "Cooker"
+                },
+                {
+                  "type": "Dishwasher",
+                  "id": 5,
+                  "name": "Dishwasher"
+                },
+                {
+                  "type": "Fridge",
+                  "id": 6,
+                  "name": "Fridge"
+                },
+                {
+                  "type": "Kettle",
+                  "id": 7,
+                  "name": "Kettle"
+                },
+                {
+                  "type": "Microwave",
+                  "id": 8,
+                  "name": "Microwave"
+                },
+                {
+                  "type": "Oven",
+                  "id": 9,
+                  "name": "Oven"
+                },
+                {
+                  "type": "Telephone",
+                  "id": 10,
+                  "name": "Kitchen telephone"
+                }
+              ],
+              "sensors": [
+                {
+                  "type": "fireSensor",
+                  "id": 2
+                }
+              ]
+            },
+            {
+              "name": "garage",
+              "persons": [
+                {
+                  "name": "Bob",
+                  "type": "GrandFather"
+                }
+              ],
+              "vehicles": [
+                {
+                  "type": "Bicycle",
+                  "id": 1
+                },
+                {
+                  "type": "Bicycle",
+                  "id": 2
+                },
+                {
+                  "type": "Ski",
+                  "id": 3
+                },
+                {
+                  "type": "Car",
+                  "id": 4
+                }
+              ],
+              "devices": [
+                {
+                  "type": "VacuumCleaner",
+                  "id": 11,
+                  "name": "VacuumCleaner"
+                }
+              ]
+            },
+            {
+              "name": "outside",
+              "sensors": [
+                {
+                  "type": "windSensor",
+                  "id": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rooms": [
+            {
+              "name": "bedroom",
+              "devices": [
+                {
+                  "type": "PC",
+                  "id": 12,
+                  "name": "My PC"
+                },
+                {
+                  "type": "MusicCenter",
+                  "id": 13,
+                  "name": "Little musicCenter"
+                },
+                {
+                  "type": "TV",
+                  "id": 14,
+                  "name": "Little TV"
+                }
+              ],
+              "persons": [
+                {
+                  "name": "Carl",
+                  "type": "Father"
+                }
+              ],
+              "pets": [
+                {
+                  "type": "Cat",
+                  "id": 2,
+                  "name": "Showball"
+                }
+              ],
+              "sensors": [
+                {
+                  "type": "fireSensor",
+                  "id": 5
+                }
+              ]
+            },
+            {
+              "name": "bathroom",
+              "devices": [
+                {
+                  "type": "Bath",
+                  "id": 15,
+                  "name": "Bath"
+                },
+                {
+                  "type": "WashingMachine",
+                  "id": 16,
+                  "name": "Washing machine"
+                },
+                {
+                  "type": "Boller",
+                  "id": 17,
+                  "name": "Boller"
+                }
+              ],
+              "persons": [
+                {
+                  "name": "Adam",
+                  "type": "Son"
+                }
+              ],
+              "sensors": [
+                {
+                  "type": "waterSensor",
+                  "id": 6
+                }
+              ]
+            },
+            {
+              "name": "childrenroom",
+              "persons": [
+                {
+                  "name": "Lili",
+                  "type": "Baby"
+                }
+              ],
+              "devices": [
+                {
+                  "type": "Toy",
+                  "id": 18,
+                  "name": "Teddy bear"
+                },
+                {
+                  "type": "Toy",
+                  "id": 19,
+                  "name": "Little piano"
+                },
+                {
+                  "type": "PC",
+                  "id": 20,
+                  "name": "Childrens computer"
+                }
+              ],
+              "pets": [
+                {
+                  "type": "Parrot",
+                  "id": 3,
+                  "name": "Kesha"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "floors": [
+        {
+          "rooms": [
+            {
+              "name": "livingroom",
+              "persons": [
+                {
+                  "name": "Nicole",
+                  "type": "GrandMother"
+                }
+              ],
+              "devices": [
+                {
+                  "type": "MusicCenter",
+                  "id": 0,
+                  "name": "Main musicCenter"
+                },
+                {
+                  "type": "TV",
+                  "id": 1,
+                  "name": "Big TV"
+                },
+                {
+                  "type": "Toy",
+                  "id": 2,
+                  "name": "Big bear"
+                }
+              ],
+              "sensors": [
+                {
+                  "type": "fireSensor",
+                  "id": 1
+                }
+              ]
+            },
+            {
+              "name": "kitchen",
+              "persons": [
+                {
+                  "name": "Lily",
+                  "type": "Mother"
+                }
+              ],
+              "devices": [
+                {
+                  "type": "CoffeeMachine",
+                  "id": 3,
+                  "name": "CoffeeMachine"
+                },
+                {
+                  "type": "Cooker",
+                  "id": 4,
+                  "name": "Cooker"
+                },
+                {
+                  "type": "Dishwasher",
+                  "id": 5,
+                  "name": "Dishwasher"
+                },
+                {
+                  "type": "Fridge",
+                  "id": 6,
+                  "name": "First Fridge"
+                },
+                {
+                  "type": "Kettle",
+                  "id": 7,
+                  "name": "Kettle"
+                },
+                {
+                  "type": "Microwave",
+                  "id": 8,
+                  "name": "Microwave"
+                },
+                {
+                  "type": "Oven",
+                  "id": 9,
+                  "name": "Oven"
+                },
+                {
+                  "type": "Fridge",
+                  "id": 10,
+                  "name": "Second Fridge"
+                }
+              ],
+              "sensors": [
+                {
+                  "type": "fireSensor",
+                  "id": 2
+                }
+              ]
+            },
+            {
+              "name": "garage",
+              "persons": [
+                {
+                  "name": "Brad",
+                  "type": "Father"
+                }
+              ],
+              "vehicles": [
+                {
+                  "type": "Bicycle",
+                  "id": 1
+                },
+                {
+                  "type": "Ski",
+                  "id": 2
+                },
+                {
+                  "type": "Car",
+                  "id": 3
+                }
+              ],
+              "devices": [
+                {
+                  "type": "VacuumCleaner",
+                  "id": 11,
+                  "name": "VacuumCleaner"
+                }
+              ]
+            },
+            {
+              "name": "outside",
+              "devices": [
+                {
+                  "type": "Grill",
+                  "id": 12,
+                  "name": "Grill"
+                }
+              ],
+              "sensors": [
+                {
+                  "type": "windSensor",
+                  "id": 4
+                },
+                {
+                  "type": "fireSensor",
+                  "id": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rooms": [
+            {
+              "name": "bedroom",
+              "devices": [
+                {
+                  "type": "PC",
+                  "id": 13,
+                  "name": "My PC"
+                },
+                {
+                  "type": "TV",
+                  "id": 14,
+                  "name": "Little TV"
+                }
+              ],
+              "persons": [
+                {
+                  "name": "Tod",
+                  "type": "Son"
+                }
+              ],
+              "pets": [
+                {
+                  "type": "Cat",
+                  "id": 2,
+                  "name": "Snowball"
+                }
+              ],
+              "sensors": [
+                {
+                  "type": "fireSensor",
+                  "id": 6
+                }
+              ]
+            },
+            {
+              "name": "bathroom",
+              "devices": [
+                {
+                  "type": "Bath",
+                  "id": 15,
+                  "name": "Bath"
+                },
+                {
+                  "type": "WashingMachine",
+                  "id": 16,
+                  "name": "Washing machine"
+                },
+                {
+                  "type": "Boller",
+                  "id": 17,
+                  "name": "Boller"
+                }
+              ],
+              "persons": [
+                {
+                  "name": "Adam",
+                  "type": "Son"
+                }
+              ],
+              "sensors": [
+                {
+                  "type": "waterSensor",
+                  "id": 7
+                }
+              ]
+            },
+            {
+              "name": "childrenroom",
+              "persons": [
+                {
+                  "name": "Kate",
+                  "type": "Baby"
+                }
+              ],
+              "devices": [
+                {
+                  "type": "Toy",
+                  "id": 18,
+                  "name": "Teddy bear"
+                },
+                {
+                  "type": "Toy",
+                  "id": 19,
+                  "name": "Little piano"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rooms": [
+            {
+              "name": "bedroom2",
+              "devices": [
+                {
+                  "type": "PC",
+                  "id": 20,
+                  "name": "My PC"
+                },
+                {
+                  "type": "MusicCenter",
+                  "id": 21,
+                  "name": "Little musicCenter"
+                },
+                {
+                  "type": "TV",
+                  "id": 22,
+                  "name": "Little TV"
+                }
+              ],
+              "persons": [
+                {
+                  "name": "Mike",
+                  "type": "GrandFather"
+                }
+              ],
+              "pets": [
+                {
+                  "type": "Cat",
+                  "id": 3,
+                  "name": "Sausage"
+                }
+              ],
+              "sensors": [
+                {
+                  "type": "fireSensor",
+                  "id": 8
+                }
+              ]
+            },
+            {
+              "name": "childrenroom2",
+              "persons": [
+                {
+                  "name": "Ron",
+                  "type": "Baby"
+                }
+              ],
+              "devices": [
+                {
+                  "type": "Toy",
+                  "id": 23,
+                  "name": "Teddy bear"
+                },
+                {
+                  "type": "Toy",
+                  "id": 24,
+                  "name": "Little piano"
+                },
+                {
+                  "type": "PC",
+                  "id": 25,
+                  "name": "Childrens computer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rooms": [
+            {
+              "name": "attic",
+              "devices": [
+                {
+                  "type": "PC",
+                  "id": 12,
+                  "name": "My PC"
+                },
+                {
+                  "type": "MusicCenter",
+                  "id": 13,
+                  "name": "Little musicCenter"
+                },
+                {
+                  "type": "TV",
+                  "id": 14,
+                  "name": "Little TV"
+                }
+              ],
+              "pets": [
+                {
+                  "type": "Cat",
+                  "id": 4,
+                  "name": "Night"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "order": 0,
+      "action": {
+        "type": "device-state",
+        "status": "turnOn"
+      },
+      "subject": {
+        "device": 1
+      },
+      "timestamp": 1
+    },
+    {
+      "order": 1,
+      "action": {
+        "type": "device-state",
+        "status": "turnOn"
+      },
+      "subject": {
+        "device": 6
+      },
+      "timestamp": 11
+    },
+    {
+      "order": 2,
+      "action": {
+        "type": "device-state",
+        "status": "turnOn"
+      },
+      "subject": {
+        "device": 13
+      },
+      "timestamp": 21
+    },
+    {
+      "order": 3,
+      "action": {
+        "type": "device-state",
+        "status": "turnOn"
+      },
+      "subject": {
+        "device": 17
+      },
+      "timestamp": 23
+    },
+    {
+      "order": 4,
+      "inhabitant": "Sara",
+      "action": {
+        "type": "light",
+        "status": "turnOn"
+      },
+      "room" : "livingroom",
+      "timestamp": 36
+    },
+    {
+      "order": 5,
+      "inhabitant": "Sara",
+      "action": {
+        "type": "window-state",
+        "status": "open"
+      },
+      "room": "livingroom",
+      "timestamp": 25
+    },
+    {
+      "order": 6,
+      "inhabitant": "Kate",
+      "action": {
+        "type": "device-state",
+        "status": "turnOn"
+      },
+      "subject": {
+        "device": 0
+      },
+      "timestamp": 27
+    },
+    {
+      "order": 7,
+      "inhabitant": "Anna",
+      "action": {
+        "type": "light",
+        "status": "turnOn"
+      },
+      "room" : "kitchen",
+      "timestamp": 28
+    },
+    {
+      "order": 8,
+      "inhabitant": "Sara",
+      "action": {
+        "type": "inhabitant_location"
+      },
+      "room": "kitchen",
+      "timestamp": 30
+    },
+    {
+      "order": 9,
+      "inhabitant": "Anna",
+      "action": {
+        "type": "fridge",
+        "food": "milk",
+        "action": "put"
+      },
+      "fridge": 6,
+      "timestamp": 34
+    },
+    {
+      "order": 10,
+      "inhabitant": "Sara",
+      "action": {
+        "type": "fridge",
+        "food": "milk",
+        "action": "take"
+      },
+      "fridge": 6,
+      "timestamp": 36
+    },
+    {
+      "order": 11,
+      "inhabitant": "Anna",
+      "action": {
+        "type": "device-state",
+        "status": "turnOn"
+      },
+      "subject": {
+        "device": 9
+      },
+      "timestamp": 40
+    },
+    {
+      "order": 12,
+      "inhabitant": "Anna",
+      "action": {
+        "type": "device-state",
+        "status": "idle"
+      },
+      "subject": {
+        "device": 9
+      },
+      "timestamp": 41
+    },
+    {
+      "order": 13,
+      "inhabitant": "Bob",
+      "action": {
+        "type": "light",
+        "status": "turnOn"
+      },
+      "room" : "garage",
+      "timestamp": 42
+    },
+    {
+      "order": 14,
+      "inhabitant": "Bob",
+      "action": {
+        "type": "vehicle",
+        "status": "idle"
+      },
+      "subject": {
+        "vehicle": 2
+      },
+      "timestamp": 45
+    },
+    {
+      "order": 15,
+      "inhabitant": "Carl",
+      "action": {
+        "type": "light",
+        "status": "turnOn"
+      },
+      "room" : "bedroom",
+      "timestamp": 46
+    },
+    {
+      "order": 16,
+      "inhabitant": "Adam",
+      "action": {
+        "type": "light",
+        "status": "turnOn"
+      },
+      "room" : "bathroom",
+      "timestamp": 47
+    },
+    {
+      "order": 17,
+      "inhabitant": "Adam",
+      "action": {
+        "type": "device-state",
+        "status": "turnOn"
+      },
+      "subject": {
+        "device": 16
+      },
+      "timestamp": 48
+    },
+    {
+      "order": 18,
+      "inhabitant": "Carl",
+      "action": {
+        "type": "device-state",
+        "status": "turnOn"
+      },
+      "subject": {
+        "device": 12
+      },
+      "timestamp": 50
+    },
+    {
+      "order": 19,
+      "inhabitant": "Carl",
+      "action": {
+        "type": "window-state",
+        "status": "open"
+      },
+      "room": "bedroom",
+      "timestamp": 55
+    },
+    {
+      "order": 20,
+      "inhabitant": "Carl",
+      "action": {
+        "type": "device-state",
+        "status": "idle"
+      },
+      "subject": {
+        "device": 12
+      },
+      "timestamp": 60
+    },
+    {
+      "order": 21,
+      "inhabitant": "Bob",
+      "action": {
+        "type": "vehicle",
+        "status": "turnOff"
+      },
+      "subject": {
+        "vehicle": 2
+      },
+      "timestamp": 70
+    },
+    {
+      "order": 22,
+      "inhabitant": "Anna",
+      "action": {
+        "type": "device-state",
+        "status": "turnOff"
+      },
+      "subject": {
+        "device": 9
+      },
+      "timestamp": 75
+    },
+    {
+      "order": 23,
+      "action": {
+        "type": "device-state",
+        "status": "broken"
+      },
+      "subject": {
+        "device": 17
+      },
+      "timestamp": 80
+    },
+    {
+      "order": 24,
+      "inhabitant": "Adam",
+      "action": {
+        "type": "inhabitant_location"
+      },
+      "room": "livingroom",
+      "timestamp": 85
+    },
+    {
+      "order": 25,
+      "inhabitant": "Carl",
+      "action": {
+        "type": "inhabitant_location"
+      },
+      "room": "bathroom",
+      "timestamp": 89
+    },
+    {
+      "order": 26,
+      "inhabitant": "Carl",
+      "action": {
+        "type": "device-state",
+        "status": "repair"
+      },
+      "subject": {
+        "device": 17
+      },
+      "timestamp": 100
+    },
+    {
+      "order": 27,
+      "sensorId": 4,
+      "sensorType" : "windSensor",
+      "action": {
+        "type": "sensor"
+      },
+      "timestamp": 110
+    },
+    {
+      "order": 28,
+      "inhabitant": "Sara",
+      "action": {
+        "type": "inhabitant_location"
+      },
+      "room": "childrenroom",
+      "timestamp": 120
+    },
+    {
+      "order": 29,
+      "inhabitant": "Sara",
+      "action": {
+        "type": "light",
+        "status": "turnOn"
+      },
+      "room" : "childrenroom",
+      "timestamp": 123
+    },
+    {
+      "order": 30,
+      "inhabitant": "Lili",
+      "action": {
+        "type": "device-state",
+        "status": "turnOn"
+      },
+      "subject": {
+        "device": 18
+      },
+      "timestamp": 125
+    },
+    {
+      "order": 31,
+      "inhabitant": "Lili",
+      "action": {
+        "type": "device-state",
+        "status": "idle"
+      },
+      "subject": {
+        "device": 18
+      },
+      "timestamp": 126
+    },
+    {
+      "order": 32,
+      "inhabitant": "Kesha",
+      "action": {
+        "type": "device-state",
+        "status": "broken"
+      },
+      "subject": {
+        "device": 19
+      },
+      "timestamp": 130
+    },
+    {
+      "order": 33,
+      "inhabitant": "Lili",
+      "action": {
+        "type": "device-state",
+        "status": "turnOff"
+      },
+      "subject": {
+        "device": 18
+      },
+      "timestamp": 150
+    },
+    {
+      "order": 34,
+      "inhabitant": "Anna",
+      "action": {
+        "type": "device-state",
+        "status": "turnOn"
+      },
+      "subject": {
+        "device": 4
+      },
+      "timestamp": 160
+    },
+    {
+      "order": 35,
+      "inhabitant": "Anna",
+      "action": {
+        "type": "device-state",
+        "status": "turnOn"
+      },
+      "subject": {
+        "device": 8
+      },
+      "timestamp": 170
+    },
+    {
+      "order": 36,
+      "action": {
+        "type": "off"
+      },
+      "timestamp": 200
+    }
+  ]
+}
